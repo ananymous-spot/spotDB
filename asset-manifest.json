@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/spotDB/static/css/main.3b7682ba.css",
-    "main.js": "/spotDB/static/js/main.c9f6da42.js",
+    "main.css": "/spotDB/static/css/main.c3716ffe.css",
+    "main.js": "/spotDB/static/js/main.3e97f809.js",
     "static/js/787.737ce6bc.chunk.js": "/spotDB/static/js/787.737ce6bc.chunk.js",
     "static/media/logo.svg": "/spotDB/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/spotDB/index.html",
-    "main.3b7682ba.css.map": "/spotDB/static/css/main.3b7682ba.css.map",
-    "main.c9f6da42.js.map": "/spotDB/static/js/main.c9f6da42.js.map",
+    "main.c3716ffe.css.map": "/spotDB/static/css/main.c3716ffe.css.map",
+    "main.3e97f809.js.map": "/spotDB/static/js/main.3e97f809.js.map",
     "787.737ce6bc.chunk.js.map": "/spotDB/static/js/787.737ce6bc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3b7682ba.css",
-    "static/js/main.c9f6da42.js"
+    "static/css/main.c3716ffe.css",
+    "static/js/main.3e97f809.js"
   ]
 }
